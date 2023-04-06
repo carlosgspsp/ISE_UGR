@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1591282768477,81,Login Alumno,200,OK,Alumnos 1-1,text,true,,582,346,4,8,http://192.168.82.105:3000/api/v1/auth/login,78,0,55
+1591282768747,36,Login Alumno,200,OK,Alumnos 1-3,text,true,,582,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,35,0,6
+1591282768958,20,Login Administrador,200,OK,Administradores 2-1,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,5
+1591282769369,22,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,5
+1591282769399,19,Login Alumno,200,OK,Alumnos 1-2,text,true,,582,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282769752,23,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,5
+1591282769783,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282770131,31,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,5
+1591282771284,31,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,200,OK,Administradores 2-1,text,true,,1141,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,31,0,0
+1591282771733,14,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1048,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com?login=rowlandsaunders@tropoli.com,14,0,0
+1591282771829,19,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,200,OK,Administradores 2-3,text,true,,1141,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,19,0,0
+1591282772342,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1983,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com?login=velezguthrie@tropoli.com,14,0,0
+1591282772988,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,200,OK,Administradores 2-2,text,true,,1141,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,14,0,0
+1591282773036,13,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1547,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com?login=daledalton@tropoli.com,12,0,0
+1591282773393,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,200,OK,Administradores 2-4,text,true,,1141,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,15,0,0
+1591282773565,13,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1055,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com?login=celinacrosby@tropoli.com,13,0,0
+1591282774119,22,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,5
+1591282774986,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282775029,17,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282775167,24,Login Administrador,200,OK,Administradores 2-3,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,24,0,5
+1591282775819,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282776093,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,6
+1591282776615,16,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282776846,23,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,0
+1591282777045,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,200,OK,Administradores 2-1,text,true,,1206,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,17,0,0
+1591282777707,13,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1131,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com?login=ruizoneal@tropoli.com,13,0,0
+1591282777858,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1570,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com?login=mariweiss@tropoli.com,13,0,0
+1591282777993,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,200,OK,Administradores 2-3,text,true,,1206,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,20,0,0
+1591282779482,19,Login Administrador,200,OK,Administradores 2-1,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282779559,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,200,OK,Administradores 2-2,text,true,,1206,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,15,0,0
+1591282779830,23,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1484,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com?login=woodardoneill@tropoli.com,23,0,0
+1591282779866,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,200,OK,Administradores 2-4,text,true,,1206,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,14,0,0
+1591282780162,25,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,24,0,0
+1591282780192,19,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1010,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com?login=staceytownsend@tropoli.com,19,0,0
+1591282781113,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282781457,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282782403,16,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282782759,22,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,200,OK,Administradores 2-1,text,true,,1539,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,22,0,0
+1591282782840,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282783005,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591282783020,28,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1544,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com?login=maribelwhite@tropoli.com,28,0,0
+1591282783074,22,Login Administrador,200,OK,Administradores 2-4,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,6
+1591282784638,9,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,200,OK,Administradores 2-3,text,true,,1539,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,9,0,0
+1591282784916,16,Datos Alumno,200,OK,Alumnos 1-3,text,true,,999,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com?login=soliswest@tropoli.com,16,0,0
+1591282785210,13,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1211,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com?login=cervantesadams@tropoli.com,13,0,0
+1591282785487,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282785796,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1146,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com?login=deborawalker@tropoli.com,12,0,0
+1591282785895,30,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,342,4,8,http://192.168.82.105:3000/api/v1/auth/login,30,0,0
+1591282785926,21,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,200,OK,Administradores 2-4,text,true,,1539,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,21,0,0
+1591282786344,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,200,OK,Administradores 2-2,text,true,,1539,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,15,0,0
+1591282787419,22,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,6
+1591282787493,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,582,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282787970,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282788173,17,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1280,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com?login=bentleysharpe@tropoli.com,17,0,0
+1591282788426,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,200,OK,Administradores 2-1,text,true,,1978,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,14,0,0
+1591282788798,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,5
+1591282789218,17,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282789264,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282790199,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,200,OK,Administradores 2-3,text,true,,1978,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,17,0,0
+1591282790556,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282791103,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1728,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com?login=hildaboyle@tropoli.com,12,0,0
+1591282791177,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1384,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com?login=claudettesampson@tropoli.com,14,0,0
+1591282791669,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282791943,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,200,OK,Administradores 2-4,text,true,,1978,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,14,0,0
+1591282791999,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,200,OK,Administradores 2-2,text,true,,1978,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,17,0,0
+1591282792118,23,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,0
+1591282793279,13,Datos Alumno,200,OK,Alumnos 1-2,text,true,,969,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com?login=kristinearnold@tropoli.com,12,0,0
+1591282793381,28,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,200,OK,Administradores 2-1,text,true,,1043,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,28,0,0
+1591282794222,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282794433,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,200,OK,Administradores 2-3,text,true,,1043,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,14,0,0
+1591282794625,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282794916,21,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1148,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com?login=janieking@tropoli.com,21,0,0
+1591282795023,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282795732,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282796714,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282796915,15,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282796939,13,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2216,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com?login=deliamorton@tropoli.com,13,0,0
+1591282797274,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282798354,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,200,OK,Administradores 2-4,text,true,,1043,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,20,0,0
+1591282798495,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2114,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com?login=margaritamunoz@tropoli.com,12,0,0
+1591282798573,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282798897,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,200,OK,Administradores 2-2,text,true,,1043,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,14,0,0
+1591282799797,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,331,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282799959,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,200,OK,Administradores 2-3,text,true,,1542,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,17,0,0
+1591282800040,16,Datos Alumno,200,OK,Alumnos 1-2,text,true,,955,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com?login=adkinsstokes@tropoli.com,16,0,0
+1591282801123,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,200,OK,Administradores 2-1,text,true,,1542,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,13,0,0
+1591282801522,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282801756,25,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,25,0,0
+1591282802365,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,906,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/meredithwhitaker%40tropoli.com?login=meredithwhitaker@tropoli.com,11,0,0
+1591282802472,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282802920,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1272,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com?login=lowemeyers@tropoli.com,12,0,0
+1591282803008,21,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,5
+1591282803309,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,582,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282804084,19,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282804726,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,200,OK,Administradores 2-4,text,true,,1542,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,13,0,0
+1591282804745,22,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1373,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com?login=kerrihendricks@tropoli.com,22,0,0
+1591282804912,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,200,OK,Administradores 2-3,text,true,,1126,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,14,0,0
+1591282805673,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282805923,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,200,OK,Administradores 2-2,text,true,,1542,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,16,0,0
+1591282806034,13,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1460,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/erinpollard%40tropoli.com?login=erinpollard@tropoli.com,13,0,0
+1591282806861,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282806969,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,200,OK,Administradores 2-1,text,true,,1126,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,14,0,0
+1591282807552,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282808006,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282808263,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282808352,18,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282808917,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2233,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com?login=hurleyjames@tropoli.com,12,0,0
+1591282808953,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,200,OK,Administradores 2-2,text,true,,1126,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,14,0,0
+1591282809081,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1585,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com?login=kinneymoon@tropoli.com,11,0,0
+1591282809134,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282810254,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282810715,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,200,OK,Administradores 2-3,text,true,,950,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,18,0,0
+1591282810754,19,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591282810803,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1632,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com?login=dorothyrodriguez@tropoli.com,12,0,0
+1591282810912,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,200,OK,Administradores 2-4,text,true,,1126,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,14,0,0
+1591282812094,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282812323,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,964,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com?login=katrinaacevedo@tropoli.com,12,0,0
+1591282812384,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282812691,19,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,200,OK,Administradores 2-1,text,true,,950,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,19,0,0
+1591282813458,35,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,35,0,4
+1591282813471,31,Login Administrador,200,OK,Administradores 2-4,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,8
+1591282813563,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282813707,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1597,422,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com?login=blankenshipchapman@tropoli.com,11,0,0
+1591282815213,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,200,OK,Administradores 2-2,text,true,,950,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,15,0,0
+1591282815395,17,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282815941,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1120,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com?login=wootenrich@tropoli.com,11,0,0
+1591282816046,19,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282816800,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1086,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com?login=jeannettefrancis@tropoli.com,13,0,0
+1591282817098,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,200,OK,Administradores 2-4,text,true,,950,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,15,0,0
+1591282817127,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282817166,21,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,200,OK,Administradores 2-3,text,true,,1379,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,20,0,0
+1591282817801,17,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282818224,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,2112,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com?login=helenrussell@tropoli.com,12,0,0
+1591282818277,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282819155,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,200,OK,Administradores 2-1,text,true,,1379,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,14,0,0
+1591282819612,27,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,27,0,4
+1591282819629,18,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1004,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com?login=randallfinch@tropoli.com,18,0,0
+1591282819651,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282820334,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282820818,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1970,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com?login=pacelopez@tropoli.com,11,0,0
+1591282820985,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282821610,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,200,OK,Administradores 2-2,text,true,,1379,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,15,0,0
+1591282821788,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282822197,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,200,OK,Administradores 2-3,text,true,,1050,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,14,0,0
+1591282822324,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1748,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com?login=wileyholden@tropoli.com,14,0,0
+1591282822658,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282823749,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,200,OK,Administradores 2-4,text,true,,1379,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,15,0,0
+1591282823760,22,Datos Alumno,200,OK,Alumnos 1-2,text,true,,957,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com?login=jamescampos@tropoli.com,22,0,0
+1591282824653,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1477,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com?login=kaufmanjoyner@tropoli.com,12,0,0
+1591282824781,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282824931,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282824999,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,342,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282825123,32,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,32,0,5
+1591282826259,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,200,OK,Administradores 2-1,text,true,,1050,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,13,0,0
+1591282826828,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,5
+1591282827815,16,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1159,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/davidsongordon%40tropoli.com?login=davidsongordon@tropoli.com,16,0,0
+1591282827897,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,200,OK,Administradores 2-3,text,true,,999,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,14,0,0
+1591282828185,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,342,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282828343,20,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591282828389,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,922,417,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com?login=angeliquethomas@tropoli.com,11,0,0
+1591282828584,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,200,OK,Administradores 2-2,text,true,,1050,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,13,0,0
+1591282829054,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282830469,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,200,OK,Administradores 2-4,text,true,,1050,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,14,0,0
+1591282830733,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1835,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com?login=lorriemccarthy@tropoli.com,14,0,4
+1591282830839,20,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282830976,21,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,5
+1591282831203,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282831286,15,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1125,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com?login=douglasrobertson@tropoli.com,15,0,3
+1591282831778,23,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,200,OK,Administradores 2-1,text,true,,999,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,23,0,0
+1591282831785,46,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,46,0,5
+1591282833303,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282833450,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,2405,423,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com?login=mcfarlandwhitehead@tropoli.com,12,0,0
+1591282833667,19,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,200,OK,Administradores 2-3,text,true,,1565,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,19,0,0
+1591282833942,28,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,200,OK,Administradores 2-2,text,true,,999,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,28,0,0
+1591282834051,28,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,28,0,0
+1591282834208,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282835099,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282835127,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2026,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com?login=mcgowanfox@tropoli.com,11,0,0
+1591282836071,22,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,4
+1591282836258,20,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282836744,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282836946,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,898,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/anthonygamble%40tropoli.com?login=anthonygamble@tropoli.com,12,0,0
+1591282837416,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1032,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/thompsoncole%40tropoli.com?login=thompsoncole@tropoli.com,11,0,0
+1591282837451,30,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,200,OK,Administradores 2-4,text,true,,999,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,30,0,0
+1591282837862,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282838571,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,200,OK,Administradores 2-1,text,true,,1565,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,17,0,0
+1591282839500,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,200,OK,Administradores 2-2,text,true,,1565,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,14,0,0
+1591282839778,13,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1189,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com?login=annelambert@tropoli.com,13,0,0
+1591282839987,28,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,28,0,0
+1591282840161,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,200,OK,Administradores 2-3,text,true,,1120,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,18,0,0
+1591282840727,23,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,0
+1591282841005,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,980,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com?login=maggieross@tropoli.com,12,0,0
+1591282841062,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,5
+1591282841289,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282842509,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282842607,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591282842758,37,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,37,0,4
+1591282842992,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,965,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/harveymcmillan%40tropoli.com?login=harveymcmillan@tropoli.com,12,0,0
+1591282843576,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,200,OK,Administradores 2-4,text,true,,1565,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,14,0,0
+1591282843917,28,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1008,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/vangreynolds%40tropoli.com?login=vangreynolds@tropoli.com,28,0,0
+1591282844467,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,200,OK,Administradores 2-3,text,true,,2109,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,15,0,0
+1591282844533,28,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,200,OK,Administradores 2-1,text,true,,1120,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,28,0,0
+1591282844746,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282845562,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,200,OK,Administradores 2-2,text,true,,1120,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,14,0,0
+1591282845792,17,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282846450,26,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1038,417,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/esmeraldakelley%40tropoli.com?login=esmeraldakelley@tropoli.com,26,0,0
+1591282846887,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591282846962,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282847139,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282848195,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2071,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com?login=grosscarney@tropoli.com,14,0,0
+1591282848342,15,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1241,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/joycedowns%40tropoli.com?login=joycedowns@tropoli.com,15,0,0
+1591282848353,22,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,4
+1591282848369,22,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,4
+1591282849261,18,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282850031,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,200,OK,Administradores 2-1,text,true,,2109,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,20,0,0
+1591282850540,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,200,OK,Administradores 2-4,text,true,,1120,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,14,0,0
+1591282850625,30,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,30,0,0
+1591282850892,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,912,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brigitteayers%40tropoli.com?login=brigitteayers@tropoli.com,12,0,0
+1591282851461,27,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,27,0,0
+1591282851771,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,200,OK,Administradores 2-3,text,true,,1143,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,18,0,0
+1591282852471,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,200,OK,Administradores 2-2,text,true,,2109,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,13,0,0
+1591282852719,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1067,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rosenielsen%40tropoli.com?login=rosenielsen@tropoli.com,12,0,0
+1591282852978,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591282853197,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282853215,17,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282853442,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1156,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com?login=rodriquezherring@tropoli.com,12,0,0
+1591282854232,15,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1221,419,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com?login=charitymcpherson@tropoli.com,15,0,0
+1591282854944,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282855239,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282855991,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,200,OK,Administradores 2-4,text,true,,2109,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,14,0,0
+1591282856018,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282856045,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1025,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dixietrujillo%40tropoli.com?login=dixietrujillo@tropoli.com,12,0,0
+1591282856232,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,346,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282856290,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,200,OK,Administradores 2-1,text,true,,1143,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,18,0,0
+1591282857412,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282858269,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,200,OK,Administradores 2-2,text,true,,1143,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,13,0,0
+1591282858322,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,200,OK,Administradores 2-3,text,true,,1479,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,13,0,0
+1591282859175,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1151,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com?login=morenorandall@tropoli.com,12,0,0
+1591282859242,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282859350,26,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,26,0,0
+1591282859498,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1123,417,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com?login=brittneyholland@tropoli.com,11,0,0
+1591282859720,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282861099,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591282861408,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2363,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rheawalton%40tropoli.com?login=rheawalton@tropoli.com,11,0,0
+1591282861646,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282862255,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282862544,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282862623,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1123,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/joannaknapp%40tropoli.com?login=joannaknapp@tropoli.com,14,0,0
+1591282862699,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,200,OK,Administradores 2-4,text,true,,1143,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,13,0,0
+1591282862719,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,200,OK,Administradores 2-1,text,true,,1479,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,13,0,0
+1591282864058,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1088,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com?login=isabelward@tropoli.com,14,0,0
+1591282864067,19,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,200,OK,Administradores 2-2,text,true,,1479,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,19,0,0
+1591282865142,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282865301,14,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1313,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/nortonwaller%40tropoli.com?login=nortonwaller@tropoli.com,14,0,0
+1591282865488,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282866006,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282866402,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282866586,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,200,OK,Administradores 2-3,text,true,,964,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,14,0,0
+1591282866646,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591282866768,18,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282867575,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,200,OK,Administradores 2-4,text,true,,1479,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,17,0,0
+1591282868219,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282868482,10,Datos Alumno,200,OK,Alumnos 1-3,text,true,,884,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/riggsrusso%40tropoli.com?login=riggsrusso@tropoli.com,10,0,0
+1591282868740,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,967,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hardintrevino%40tropoli.com?login=hardintrevino@tropoli.com,12,0,0
+1591282868990,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1818,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/potterwooten%40tropoli.com?login=potterwooten@tropoli.com,11,0,0
+1591282869207,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,200,OK,Administradores 2-2,text,true,,964,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,13,0,0
+1591282869273,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282870104,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,200,OK,Administradores 2-1,text,true,,964,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,16,0,0
+1591282870388,17,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282870615,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282871062,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,2330,417,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com?login=wongchristensen@tropoli.com,12,0,0
+1591282871858,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,200,OK,Administradores 2-3,text,true,,1275,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,16,0,0
+1591282871862,41,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,41,0,4
+1591282871965,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282872366,28,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,28,0,0
+1591282872828,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282873122,20,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1985,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/walkermcclure%40tropoli.com?login=walkermcclure@tropoli.com,20,0,0
+1591282873553,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,342,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282873972,14,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282874248,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,200,OK,Administradores 2-4,text,true,,964,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,14,0,0
+1591282874579,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,200,OK,Administradores 2-1,text,true,,1275,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,13,0,0
+1591282875097,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1117,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/vegamoore%40tropoli.com?login=vegamoore@tropoli.com,11,0,0
+1591282875467,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,200,OK,Administradores 2-2,text,true,,1275,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,13,0,0
+1591282876207,25,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1702,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com?login=zelmatillman@tropoli.com,25,0,0
+1591282876274,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1488,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/heatherpickett%40tropoli.com?login=heatherpickett@tropoli.com,12,0,0
+1591282876311,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282877064,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,200,OK,Administradores 2-3,text,true,,1005,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,13,0,0
+1591282877328,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,3
+1591282877708,15,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282878065,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282878286,31,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,4
+1591282878655,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1231,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/beulahzamora%40tropoli.com?login=beulahzamora@tropoli.com,11,0,0
+1591282879083,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282879428,24,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,24,0,0
+1591282879466,16,Login Administrador,200,OK,Administradores 2-3,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591282880015,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,200,OK,Administradores 2-4,text,true,,1275,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,16,0,0
+1591282880134,23,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,200,OK,Administradores 2-1,text,true,,1005,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,23,0,0
+1591282880699,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2069,421,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/christianwilliams%40tropoli.com?login=christianwilliams@tropoli.com,11,0,0
+1591282881399,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282881819,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1520,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maradelaney%40tropoli.com?login=maradelaney@tropoli.com,12,0,0
+1591282881946,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,200,OK,Administradores 2-2,text,true,,1005,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,13,0,0
+1591282882108,124,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1350,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hornegray%40tropoli.com?login=hornegray@tropoli.com,124,0,0
+1591282882349,31,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,200,OK,Administradores 2-3,text,true,,1592,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,31,0,0
+1591282882955,36,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,36,0,5
+1591282883093,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282883648,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282884517,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1479,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/penasmall%40tropoli.com?login=penasmall@tropoli.com,13,0,0
+1591282884742,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282885041,17,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,331,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282885352,23,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,331,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,0
+1591282885784,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282885975,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,200,OK,Administradores 2-4,text,true,,1005,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,14,0,0
+1591282886182,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1864,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/carlenelandry%40tropoli.com?login=carlenelandry@tropoli.com,13,0,0
+1591282886518,29,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,200,OK,Administradores 2-1,text,true,,1592,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,29,0,0
+1591282887131,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282887659,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,200,OK,Administradores 2-2,text,true,,1592,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,16,0,0
+1591282887921,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,2054,407,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/fayhawkins%40tropoli.com?login=fayhawkins@tropoli.com,11,0,0
+1591282888930,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1284,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/tranowens%40tropoli.com?login=tranowens@tropoli.com,12,0,0
+1591282888962,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,200,OK,Administradores 2-3,text,true,,1472,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,13,0,0
+1591282888985,37,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,37,0,0
+1591282889075,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282889921,16,Datos Alumno,200,OK,Alumnos 1-3,text,true,,969,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/leesteele%40tropoli.com?login=leesteele@tropoli.com,16,0,0
+1591282890087,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282890284,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282890451,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282891200,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282891384,44,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,44,0,30
+1591282891618,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1101,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/robbieosborn%40tropoli.com?login=robbieosborn@tropoli.com,14,0,2
+1591282891863,29,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,200,OK,Administradores 2-4,text,true,,1592,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,29,0,0
+1591282892147,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,200,OK,Administradores 2-2,text,true,,1472,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,15,0,0
+1591282892760,22,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,4
+1591282893244,14,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1485,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hazelmosley%40tropoli.com?login=hazelmosley@tropoli.com,14,0,3
+1591282893487,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,200,OK,Administradores 2-1,text,true,,1472,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,14,0,0
+1591282894146,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1948,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/meltonpayne%40tropoli.com?login=meltonpayne@tropoli.com,12,0,0
+1591282894221,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,200,OK,Administradores 2-3,text,true,,2211,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,17,0,0
+1591282894248,15,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282894385,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,5
+1591282894981,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282895932,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,953,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/nettiedeleon%40tropoli.com?login=nettiedeleon@tropoli.com,12,0,0
+1591282896175,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282896426,30,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,30,0,4
+1591282896986,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282897392,18,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282897827,32,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,200,OK,Administradores 2-2,text,true,,2211,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,32,0,0
+1591282898030,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,200,OK,Administradores 2-4,text,true,,1472,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,13,0,0
+1591282898824,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,956,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/reidnunez%40tropoli.com?login=reidnunez@tropoli.com,11,0,0
+1591282898843,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,200,OK,Administradores 2-1,text,true,,2211,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,14,0,0
+1591282899116,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1282,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/whitephelps%40tropoli.com?login=whitephelps@tropoli.com,12,0,0
+1591282899255,18,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282899428,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,200,OK,Administradores 2-3,text,true,,1580,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,14,0,0
+1591282900727,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1182,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/quinnbrowning%40tropoli.com?login=quinnbrowning@tropoli.com,11,0,0
+1591282901405,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282902016,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282902042,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282902173,22,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,4
+1591282902536,19,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591282902651,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282903008,21,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,0
+1591282903443,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1070,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/moralesgibbs%40tropoli.com?login=moralesgibbs@tropoli.com,12,0,0
+1591282904178,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,200,OK,Administradores 2-4,text,true,,2211,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,18,0,0
+1591282904666,15,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1646,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/karacontreras%40tropoli.com?login=karacontreras@tropoli.com,15,0,0
+1591282905350,30,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1228,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mirandahahn%40tropoli.com?login=mirandahahn@tropoli.com,30,0,0
+1591282905387,16,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1892,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/christieaustin%40tropoli.com?login=christieaustin@tropoli.com,16,0,0
+1591282905581,27,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,200,OK,Administradores 2-1,text,true,,1580,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,27,0,0
+1591282905638,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,200,OK,Administradores 2-3,text,true,,1723,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,14,0,0
+1591282905759,33,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,200,OK,Administradores 2-2,text,true,,1580,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,33,0,0
+1591282907139,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282907179,23,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,0
+1591282907724,17,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282908397,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282908623,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282908686,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282908745,19,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,3
+1591282909250,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282909321,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1432,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/palmeralvarado%40tropoli.com?login=palmeralvarado@tropoli.com,12,0,0
+1591282910417,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,200,OK,Administradores 2-4,text,true,,1580,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,16,0,0
+1591282910595,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1638,417,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/catherinehinton%40tropoli.com?login=catherinehinton@tropoli.com,11,0,0
+1591282910969,30,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,200,OK,Administradores 2-3,text,true,,1368,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,30,0,0
+1591282911259,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1115,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/buckleyyang%40tropoli.com?login=buckleyyang@tropoli.com,12,0,0
+1591282911769,18,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282911932,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2441,415,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/barlowfigueroa%40tropoli.com?login=barlowfigueroa@tropoli.com,11,0,0
+1591282912482,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,200,OK,Administradores 2-1,text,true,,1723,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,16,0,0
+1591282912948,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,200,OK,Administradores 2-2,text,true,,1723,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,14,0,0
+1591282913505,22,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,0
+1591282913792,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282914147,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282914298,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282914540,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282914971,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1161,405,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/salaswebb%40tropoli.com?login=salaswebb@tropoli.com,14,0,0
+1591282915585,40,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,40,0,3
+1591282916741,13,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1350,409,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hopeparsons%40tropoli.com?login=hopeparsons@tropoli.com,12,0,0
+1591282916918,34,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,200,OK,Administradores 2-3,text,true,,2107,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,34,0,0
+1591282916926,54,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,54,0,4
+1591282917151,35,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,200,OK,Administradores 2-4,text,true,,1723,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,35,0,0
+1591282917634,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1039,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/gabrielleware%40tropoli.com?login=gabrielleware@tropoli.com,12,0,0
+1591282917871,31,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1038,404,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bushhood%40tropoli.com?login=bushhood@tropoli.com,31,0,0
+1591282918562,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282918973,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,200,OK,Administradores 2-1,text,true,,1368,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,14,0,0
+1591282919352,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282919653,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282919805,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,200,OK,Administradores 2-2,text,true,,1368,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,14,0,0
+1591282920056,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282920600,17,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282920797,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282920882,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,200,OK,Administradores 2-4,text,true,,1368,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,13,0,0
+1591282921021,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282922079,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1215,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/gretaleblanc%40tropoli.com?login=gretaleblanc@tropoli.com,11,0,0
+1591282922519,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1093,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/crosbybaxter%40tropoli.com?login=crosbybaxter@tropoli.com,12,0,0
+1591282922786,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,200,OK,Administradores 2-3,text,true,,1118,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,16,0,0
+1591282922992,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282923585,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1313,413,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/darcycaldwell%40tropoli.com?login=darcycaldwell@tropoli.com,14,0,0
+1591282923675,20,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1895,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/clarissaparks%40tropoli.com?login=clarissaparks@tropoli.com,20,0,0
+1591282924131,15,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282924753,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282925027,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,345,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282925119,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,200,OK,Administradores 2-1,text,true,,2107,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,15,0,0
+1591282925301,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282925771,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282926011,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,200,OK,Administradores 2-2,text,true,,2107,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,14,0,0
+1591282926967,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282927240,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,200,OK,Administradores 2-4,text,true,,2107,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,20,0,0
+1591282927240,22,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,200,OK,Administradores 2-3,text,true,,2228,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,22,0,0
+1591282928624,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1108,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/adamspark%40tropoli.com?login=adamspark@tropoli.com,14,0,0
+1591282928721,18,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282928753,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1068,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/parkfitzgerald%40tropoli.com?login=parkfitzgerald@tropoli.com,12,0,0
+1591282928917,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1109,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/evangelinemack%40tropoli.com?login=evangelinemack@tropoli.com,14,0,0
+1591282929231,21,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,4
+1591282929313,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1866,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/yorkvaughn%40tropoli.com?login=yorkvaughn@tropoli.com,11,0,0
+1591282929428,14,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282930653,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282931059,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,200,OK,Administradores 2-1,text,true,,1118,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,13,0,0
+1591282931575,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,200,OK,Administradores 2-3,text,true,,1965,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,13,0,0
+1591282931764,17,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282932222,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282932306,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282932609,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,200,OK,Administradores 2-2,text,true,,1118,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,13,0,0
+1591282932687,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282933765,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,200,OK,Administradores 2-4,text,true,,1118,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/brittneyholland%40tropoli.com,17,0,0
+1591282934001,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282934593,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2384,411,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/myersbarrera%40tropoli.com?login=myersbarrera@tropoli.com,11,0,0
+1591282934769,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1965,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rosemarygarrett%40tropoli.com?login=rosemarygarrett@tropoli.com,14,0,0
+1591282934863,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1592,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/sextonbest%40tropoli.com?login=sextonbest@tropoli.com,11,0,0
+1591282935020,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282935191,34,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,34,0,4
+1591282935772,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1782,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/austinsnider%40tropoli.com?login=austinsnider@tropoli.com,12,0,0
+1591282936152,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,200,OK,Administradores 2-1,text,true,,2228,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,13,0,0
+1591282937276,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282937418,28,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,331,4,8,http://192.168.82.105:3000/api/v1/auth/login,28,0,0
+1591282937775,22,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,0
+1591282937823,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,200,OK,Administradores 2-2,text,true,,2228,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,16,0,0
+1591282937960,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,200,OK,Administradores 2-3,text,true,,1697,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,13,0,0
+1591282938395,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282938501,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282939275,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282939339,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,959,404,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/caincruz%40tropoli.com?login=caincruz@tropoli.com,12,0,0
+1591282940742,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,200,OK,Administradores 2-4,text,true,,2228,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,14,0,0
+1591282940748,27,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1088,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/paulalindsey%40tropoli.com?login=paulalindsey@tropoli.com,27,0,0
+1591282941053,41,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,41,0,4
+1591282941130,18,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,4
+1591282941652,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,843,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/clairefrye%40tropoli.com?login=clairefrye@tropoli.com,10,0,0
+1591282941754,16,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2492,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/barryvang%40tropoli.com?login=barryvang@tropoli.com,16,0,0
+1591282942567,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,200,OK,Administradores 2-1,text,true,,1965,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,14,0,0
+1591282942703,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282943597,13,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282943737,31,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,3
+1591282943970,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282944217,19,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591282944439,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,200,OK,Administradores 2-2,text,true,,1965,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,13,0,0
+1591282944723,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,200,OK,Administradores 2-3,text,true,,975,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,14,0,0
+1591282945403,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282945509,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1961,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pearlietate%40tropoli.com?login=pearlietate@tropoli.com,14,0,0
+1591282945725,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1324,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hatfieldchen%40tropoli.com?login=hatfieldchen@tropoli.com,11,0,0
+1591282946533,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1742,402,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pamburt%40tropoli.com?login=pamburt@tropoli.com,12,0,0
+1591282946883,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,200,OK,Administradores 2-4,text,true,,1965,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,13,0,0
+1591282947083,13,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1133,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bryanmolina%40tropoli.com?login=bryanmolina@tropoli.com,13,0,0
+1591282947541,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282947877,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,200,OK,Administradores 2-1,text,true,,1697,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,16,0,0
+1591282947981,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282948025,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282948941,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282949669,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282949764,18,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,342,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591282949828,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282950445,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,200,OK,Administradores 2-3,text,true,,1115,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,16,0,0
+1591282950992,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282951427,15,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1180,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hodgehunt%40tropoli.com?login=hodgehunt@tropoli.com,15,0,4
+1591282951541,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,200,OK,Administradores 2-2,text,true,,1697,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,14,0,0
+1591282952435,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,2042,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/monroetravis%40tropoli.com?login=monroetravis@tropoli.com,11,0,0
+1591282953084,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1439,420,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/magdalenarosario%40tropoli.com?login=magdalenarosario@tropoli.com,14,0,3
+1591282953220,37,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,36,0,4
+1591282953335,15,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1108,420,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/velasquezcharles%40tropoli.com?login=velasquezcharles@tropoli.com,15,0,3
+1591282953378,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,200,OK,Administradores 2-4,text,true,,1697,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/zelmatillman%40tropoli.com,13,0,0
+1591282954241,31,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,0
+1591282954242,38,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,38,0,4
+1591282954336,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,200,OK,Administradores 2-1,text,true,,975,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,14,0,0
+1591282954480,47,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,345,4,8,http://192.168.82.105:3000/api/v1/auth/login,47,0,34
+1591282955977,22,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,22,0,0
+1591282956524,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,200,OK,Administradores 2-3,text,true,,1830,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,13,0,0
+1591282956577,20,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,346,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,0
+1591282956696,16,Login Administrador,200,OK,Administradores 2-4,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282957003,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1639,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/alinebright%40tropoli.com?login=alinebright@tropoli.com,12,0,0
+1591282957319,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,914,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/juanitakeller%40tropoli.com?login=juanitakeller@tropoli.com,10,0,0
+1591282957503,27,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,27,0,4
+1591282957689,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,200,OK,Administradores 2-2,text,true,,975,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,17,0,0
+1591282958388,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1245,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/calliejackson%40tropoli.com?login=calliejackson@tropoli.com,11,0,0
+1591282958793,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,200,OK,Administradores 2-4,text,true,,975,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/maggieross%40tropoli.com,14,0,0
+1591282959096,49,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,49,0,30
+1591282959194,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1536,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/woodwardmcgowan%40tropoli.com?login=woodwardmcgowan@tropoli.com,12,0,0
+1591282959888,16,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282960418,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,200,OK,Administradores 2-1,text,true,,1115,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,15,0,0
+1591282960498,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282960536,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282961392,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,200,OK,Administradores 2-3,text,true,,1627,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,15,0,0
+1591282962012,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282962224,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282962473,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,3
+1591282962716,18,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1992,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/sybilwiley%40tropoli.com?login=sybilwiley@tropoli.com,18,0,0
+1591282962717,31,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,200,OK,Administradores 2-2,text,true,,1115,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,31,0,0
+1591282963424,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,934,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcknightcastro%40tropoli.com?login=mcknightcastro@tropoli.com,12,0,0
+1591282963547,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282963837,14,Login Administrador,200,OK,Administradores 2-3,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282964563,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2164,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/shepardtodd%40tropoli.com?login=shepardtodd@tropoli.com,11,0,0
+1591282964825,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1366,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/christensenwynn%40tropoli.com?login=christensenwynn@tropoli.com,11,0,0
+1591282965347,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282965728,23,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,200,OK,Administradores 2-4,text,true,,1115,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,23,0,0
+1591282966284,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282966371,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282966724,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282967061,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,200,OK,Administradores 2-1,text,true,,1830,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,20,0,0
+1591282967291,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,200,OK,Administradores 2-3,text,true,,959,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,13,0,0
+1591282967461,17,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282967713,21,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,4
+1591282968376,28,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,200,OK,Administradores 2-2,text,true,,1830,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,28,0,0
+1591282968591,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1082,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/tinahernandez%40tropoli.com?login=tinahernandez@tropoli.com,11,0,0
+1591282969195,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1465,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/guerranavarro%40tropoli.com?login=guerranavarro@tropoli.com,11,0,0
+1591282969754,21,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,4
+1591282969960,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1204,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/burtcardenas%40tropoli.com?login=burtcardenas@tropoli.com,12,0,0
+1591282969989,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1168,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bishopguerrero%40tropoli.com?login=bishopguerrero@tropoli.com,14,0,0
+1591282970504,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,200,OK,Administradores 2-4,text,true,,1830,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lorriemccarthy%40tropoli.com,14,0,0
+1591282971268,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282971280,20,Login Administrador,200,OK,Administradores 2-3,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282971332,18,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,3
+1591282972477,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282972698,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282972817,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282972862,18,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,3
+1591282973439,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,200,OK,Administradores 2-2,text,true,,1627,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,13,0,0
+1591282973980,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,200,OK,Administradores 2-1,text,true,,1627,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,14,0,0
+1591282974381,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,200,OK,Administradores 2-3,text,true,,1081,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,14,0,0
+1591282974487,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1686,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/amelianichols%40tropoli.com?login=amelianichols@tropoli.com,11,0,0
+1591282975725,14,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1352,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/salazaryates%40tropoli.com?login=salazaryates@tropoli.com,14,0,0
+1591282975937,14,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282976032,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2399,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/nielsensellers%40tropoli.com?login=nielsensellers@tropoli.com,11,0,0
+1591282976270,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,200,OK,Administradores 2-4,text,true,,1627,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,13,0,0
+1591282976681,20,Login Administrador,200,OK,Administradores 2-1,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591282977051,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1749,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcconnellruiz%40tropoli.com?login=mcconnellruiz@tropoli.com,11,0,0
+1591282977601,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282977952,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282978546,22,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,200,OK,Administradores 2-2,text,true,,959,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,22,0,0
+1591282978550,26,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,26,0,0
+1591282978616,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282979539,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,330,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282980436,23,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,23,0,4
+1591282980438,28,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,200,OK,Administradores 2-1,text,true,,959,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,28,0,0
+1591282980711,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,919,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mariewyatt%40tropoli.com?login=mariewyatt@tropoli.com,13,0,0
+1591282981076,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282981352,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1735,424,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/dominguezvalentine%40tropoli.com?login=dominguezvalentine@tropoli.com,11,0,0
+1591282981429,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,200,OK,Administradores 2-3,text,true,,1216,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,15,0,0
+1591282981649,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1042,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/yvettedotson%40tropoli.com?login=yvettedotson@tropoli.com,11,0,0
+1591282982371,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282982642,25,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1912,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/leilabarr%40tropoli.com?login=leilabarr@tropoli.com,25,0,0
+1591282982869,17,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282984044,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,200,OK,Administradores 2-4,text,true,,959,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,13,0,0
+1591282984580,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282984673,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282984697,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,200,OK,Administradores 2-2,text,true,,1081,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,14,0,0
+1591282984794,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282985522,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,200,OK,Administradores 2-1,text,true,,1081,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,13,0,0
+1591282985791,16,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282986186,10,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1478,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mccormickoliver%40tropoli.com?login=mccormickoliver@tropoli.com,10,0,0
+1591282987484,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,200,OK,Administradores 2-3,text,true,,952,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,13,0,0
+1591282987893,32,Login Administrador,200,OK,Administradores 2-4,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,32,0,4
+1591282987954,21,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1927,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/marisolstanley%40tropoli.com?login=marisolstanley@tropoli.com,21,0,0
+1591282987994,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1473,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/gailmalone%40tropoli.com?login=gailmalone@tropoli.com,11,0,0
+1591282988067,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,992,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/harriettfoley%40tropoli.com?login=harriettfoley@tropoli.com,12,0,0
+1591282988381,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591282988695,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282989054,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282990648,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282990728,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282990900,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282991192,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282991323,42,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,200,OK,Administradores 2-4,text,true,,1081,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,42,0,0
+1591282991433,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,200,OK,Administradores 2-2,text,true,,1216,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,13,0,0
+1591282991636,22,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,200,OK,Administradores 2-1,text,true,,1216,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,22,0,0
+1591282992931,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1659,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/alfredaknowles%40tropoli.com?login=alfredaknowles@tropoli.com,11,0,0
+1591282993268,16,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1156,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wiseerickson%40tropoli.com?login=wiseerickson@tropoli.com,16,0,0
+1591282993375,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,200,OK,Administradores 2-3,text,true,,2021,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,13,0,0
+1591282993674,22,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1680,424,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/fitzgeraldgarrison%40tropoli.com?login=fitzgeraldgarrison@tropoli.com,22,0,0
+1591282993658,47,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,47,0,4
+1591282993710,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1101,404,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/nelliele%40tropoli.com?login=nelliele@tropoli.com,14,0,0
+1591282994254,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591282994880,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591282995294,15,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591282996230,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,200,OK,Administradores 2-4,text,true,,1216,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/charitymcpherson%40tropoli.com,16,0,0
+1591282996411,17,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,0
+1591282996431,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591282996591,21,Login Administrador,200,OK,Administradores 2-3,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,3
+1591282996993,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591282997256,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,200,OK,Administradores 2-2,text,true,,952,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,14,0,0
+1591282997936,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,200,OK,Administradores 2-1,text,true,,952,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,16,0,0
+1591282998117,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1065,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/florenceavila%40tropoli.com?login=florenceavila@tropoli.com,11,0,0
+1591282998393,13,Datos Alumno,200,OK,Alumnos 1-1,text,true,,859,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ernarogers%40tropoli.com?login=ernarogers@tropoli.com,13,0,0
+1591282998900,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1551,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/holmescamacho%40tropoli.com?login=holmescamacho@tropoli.com,11,0,0
+1591282999037,5,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,200,OK,Administradores 2-3,text,true,,994,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,5,0,0
+1591282999275,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591282999743,24,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,24,0,4
+1591283000450,12,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1627,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/milagrosraymond%40tropoli.com?login=milagrosraymond@tropoli.com,12,0,0
+1591283000610,28,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,28,0,3
+1591283001553,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283001772,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591283002082,16,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283002129,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283002168,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,200,OK,Administradores 2-2,text,true,,2021,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,13,0,0
+1591283002442,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,200,OK,Administradores 2-4,text,true,,952,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,16,0,0
+1591283003414,12,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,200,OK,Administradores 2-1,text,true,,2021,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,12,0,0
+1591283004047,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591283004151,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,852,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wolfewhitfield%40tropoli.com?login=wolfewhitfield@tropoli.com,11,0,0
+1591283004429,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,2312,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/corinahorn%40tropoli.com?login=corinahorn@tropoli.com,11,0,0
+1591283005138,12,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1042,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/payneellison%40tropoli.com?login=payneellison@tropoli.com,12,0,0
+1591283005224,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283005277,31,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,3
+1591283005651,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283005908,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,200,OK,Administradores 2-3,text,true,,1083,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,16,0,0
+1591283006885,10,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1024,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/olgavelasquez%40tropoli.com?login=olgavelasquez@tropoli.com,10,0,0
+1591283007398,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283007642,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,200,OK,Administradores 2-4,text,true,,2021,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcgowanfox%40tropoli.com,13,0,0
+1591283008256,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283008519,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283008716,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,200,OK,Administradores 2-2,text,true,,994,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,14,0,0
+1591283008927,26,Login Administrador,200,OK,Administradores 2-3,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,26,0,3
+1591283009271,18,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591283009548,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,200,OK,Administradores 2-1,text,true,,994,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,13,0,0
+1591283009819,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2075,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/middletonweber%40tropoli.com?login=middletonweber@tropoli.com,11,0,0
+1591283010453,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283011438,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,200,OK,Administradores 2-3,text,true,,2066,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,13,0,0
+1591283011451,32,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1058,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rosaleslamb%40tropoli.com?login=rosaleslamb@tropoli.com,32,0,0
+1591283011453,39,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1033,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/vaughanrollins%40tropoli.com?login=vaughanrollins@tropoli.com,38,0,2
+1591283011919,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283012087,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1129,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/bucknerrosa%40tropoli.com?login=bucknerrosa@tropoli.com,11,0,0
+1591283013236,16,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283013384,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283013434,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,200,OK,Administradores 2-4,text,true,,994,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,14,0,0
+1591283014386,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591283014461,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,200,OK,Administradores 2-2,text,true,,1083,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,14,0,0
+1591283014643,22,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,3
+1591283015136,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283015387,35,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,35,0,3
+1591283015602,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,200,OK,Administradores 2-1,text,true,,1083,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,13,0,0
+1591283016320,24,Login Administrador,200,OK,Administradores 2-4,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,24,0,4
+1591283016432,13,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2273,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/oneillnewton%40tropoli.com?login=oneillnewton@tropoli.com,13,0,0
+1591283017397,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,200,OK,Administradores 2-3,text,true,,1743,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,13,0,0
+1591283017484,14,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1336,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/serranoshepherd%40tropoli.com?login=serranoshepherd@tropoli.com,13,0,2
+1591283017960,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283018001,14,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283018360,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1745,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/imeldabentley%40tropoli.com?login=imeldabentley@tropoli.com,11,0,0
+1591283018380,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1925,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/kelleywalsh%40tropoli.com?login=kelleywalsh@tropoli.com,13,0,0
+1591283019810,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,200,OK,Administradores 2-4,text,true,,1083,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/isabelward%40tropoli.com,13,0,0
+1591283019934,16,Login Administrador,200,OK,Administradores 2-3,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283020118,25,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,25,0,0
+1591283020378,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,346,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283020575,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,200,OK,Administradores 2-1,text,true,,2066,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,14,0,0
+1591283020637,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,200,OK,Administradores 2-2,text,true,,2066,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,18,0,0
+1591283021775,18,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,0
+1591283021892,25,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,25,0,0
+1591283022793,32,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,32,0,4
+1591283023002,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591283023228,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,200,OK,Administradores 2-3,text,true,,1151,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,13,0,0
+1591283023484,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1264,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/marionholman%40tropoli.com?login=marionholman@tropoli.com,11,0,0
+1591283023785,29,Login Administrador,200,OK,Administradores 2-2,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,29,0,4
+1591283024206,22,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1522,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/melissalindsay%40tropoli.com?login=melissalindsay@tropoli.com,22,0,0
+1591283025119,7,Datos Alumno,200,OK,Alumnos 1-2,text,true,,824,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/estherriddle%40tropoli.com?login=estherriddle@tropoli.com,7,0,0
+1591283025494,7,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1103,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/shepherdwitt%40tropoli.com?login=shepherdwitt@tropoli.com,6,0,0
+1591283025592,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,200,OK,Administradores 2-4,text,true,,2066,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grosscarney%40tropoli.com,7,0,0
+1591283025848,18,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,200,OK,Administradores 2-1,text,true,,1743,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,18,0,0
+1591283026404,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283026561,17,Login Administrador,200,OK,Administradores 2-3,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283026758,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,200,OK,Administradores 2-2,text,true,,1743,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,20,0,0
+1591283027196,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,332,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283027382,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283027935,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283028582,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,3
+1591283028605,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283029157,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,200,OK,Administradores 2-3,text,true,,2325,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,13,0,0
+1591283029313,14,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1209,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hewittrosales%40tropoli.com?login=hewittrosales@tropoli.com,14,0,0
+1591283029925,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283030835,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,2170,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/karenstrong%40tropoli.com?login=karenstrong@tropoli.com,11,0,0
+1591283030940,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1272,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/helenamurphy%40tropoli.com?login=helenamurphy@tropoli.com,11,0,0
+1591283030949,13,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1588,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rosariologan%40tropoli.com?login=rosariologan@tropoli.com,13,0,0
+1591283031376,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,200,OK,Administradores 2-1,text,true,,1151,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,14,0,0
+1591283031916,20,Login Administrador,200,OK,Administradores 2-3,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591283032288,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,200,OK,Administradores 2-4,text,true,,1743,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,17,0,0
+1591283032434,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,343,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283032759,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,200,OK,Administradores 2-2,text,true,,1151,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,17,0,0
+1591283033491,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283033966,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283034230,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283034275,25,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,25,0,0
+1591283035312,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,18,0,3
+1591283035362,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1402,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/idagonzalez%40tropoli.com?login=idagonzalez@tropoli.com,11,0,0
+1591283035496,17,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,200,OK,Administradores 2-3,text,true,,1267,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,17,0,0
+1591283035644,15,Login Administrador,200,OK,Administradores 2-2,text,true,,595,341,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,3
+1591283036420,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1751,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/aishahumphrey%40tropoli.com?login=aishahumphrey@tropoli.com,11,0,0
+1591283036698,20,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,200,OK,Administradores 2-1,text,true,,2325,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,20,0,0
+1591283037063,13,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1086,408,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/grayreeves%40tropoli.com?login=grayreeves@tropoli.com,13,0,0
+1591283037206,10,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1765,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/ballardmcguire%40tropoli.com?login=ballardmcguire@tropoli.com,10,0,0
+1591283037860,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,200,OK,Administradores 2-2,text,true,,2325,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,14,0,0
+1591283038264,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,200,OK,Administradores 2-4,text,true,,1151,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/rodriquezherring%40tropoli.com,14,0,0
+1591283038382,19,Login Administrador,200,OK,Administradores 2-3,text,true,,595,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,3
+1591283038557,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283039395,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,15,0,0
+1591283039498,19,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591283039761,30,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,30,0,4
+1591283040474,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1771,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/hoffmanabbott%40tropoli.com?login=hoffmanabbott@tropoli.com,11,0,0
+1591283040762,21,Login Administrador,200,OK,Administradores 2-2,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,21,0,4
+1591283041003,26,Login Administrador,200,OK,Administradores 2-4,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,26,0,4
+1591283041097,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283041200,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,200,OK,Administradores 2-3,text,true,,1146,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,14,0,0
+1591283042585,14,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1829,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/annamorin%40tropoli.com?login=annamorin@tropoli.com,14,0,0
+1591283042614,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,200,OK,Administradores 2-1,text,true,,1267,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,13,0,0
+1591283043176,10,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1224,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/herrerapruitt%40tropoli.com?login=herrerapruitt@tropoli.com,10,0,0
+1591283043186,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283043460,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,200,OK,Administradores 2-2,text,true,,1267,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,14,0,0
+1591283043866,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,200,OK,Administradores 2-4,text,true,,2325,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/wongchristensen%40tropoli.com,15,0,0
+1591283044059,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1651,410,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/cannonbooth%40tropoli.com?login=cannonbooth@tropoli.com,14,0,0
+1591283044899,16,Login Administrador,200,OK,Administradores 2-3,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283045366,19,Login Administrador,200,OK,Administradores 2-1,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591283045411,26,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,26,0,0
+1591283045722,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,337,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283046705,12,Datos Alumno,200,OK,Alumnos 1-4,text,true,,2178,420,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/claudinemcdaniel%40tropoli.com?login=claudinemcdaniel@tropoli.com,12,0,0
+1591283046784,16,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,4
+1591283046860,19,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,334,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,0
+1591283047088,19,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591283048288,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,200,OK,Administradores 2-3,text,true,,1184,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,14,0,0
+1591283048571,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1711,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/chandlerfischer%40tropoli.com?login=chandlerfischer@tropoli.com,11,0,0
+1591283048874,13,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1926,418,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/gabrielacabrera%40tropoli.com?login=gabrielacabrera@tropoli.com,13,0,0
+1591283048878,22,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,200,OK,Administradores 2-1,text,true,,1146,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,22,0,0
+1591283049272,27,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,200,OK,Administradores 2-2,text,true,,1146,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,27,0,0
+1591283049698,14,Datos Alumno,200,OK,Alumnos 1-2,text,true,,942,414,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/doloreslevine%40tropoli.com?login=doloreslevine@tropoli.com,14,0,0
+1591283049792,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,200,OK,Administradores 2-4,text,true,,1267,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,13,0,0
+1591283050110,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283051342,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591283051479,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283051728,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283051833,19,Login Administrador,200,OK,Administradores 2-2,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,19,0,4
+1591283052379,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283052611,20,Login Administrador,200,OK,Administradores 2-4,text,true,,595,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,4
+1591283052670,16,Login Administrador,200,OK,Administradores 2-3,text,true,,595,336,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283053548,10,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1799,406,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/beardyork%40tropoli.com?login=beardyork@tropoli.com,10,0,0
+1591283053708,10,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1660,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/williebenton%40tropoli.com?login=williebenton@tropoli.com,10,0,0
+1591283054247,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,200,OK,Administradores 2-1,text,true,,1184,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,13,0,0
+1591283055045,12,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1836,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/jenningsowen%40tropoli.com?login=jenningsowen@tropoli.com,11,0,0
+1591283055204,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,200,OK,Administradores 2-2,text,true,,1184,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,16,0,0
+1591283055254,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,953,412,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/janastafford%40tropoli.com?login=janastafford@tropoli.com,11,0,0
+1591283055576,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,200,OK,Administradores 2-3,text,true,,2400,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,14,0,0
+1591283056121,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,200,OK,Administradores 2-4,text,true,,1146,0,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/morenorandall%40tropoli.com,13,0,0
+1591283056286,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,584,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283056600,16,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,344,4,8,http://192.168.82.105:3000/api/v1/auth/login,16,0,0
+1591283056792,17,Login Administrador,200,OK,Administradores 2-1,text,true,,595,333,4,8,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283058192,20,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,4,8,http://192.168.82.105:3000/api/v1/auth/login,20,0,5
+1591283058275,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,340,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283058621,35,Login Administrador,200,OK,Administradores 2-4,text,true,,595,335,4,8,http://192.168.82.105:3000/api/v1/auth/login,35,0,3
+1591283058641,31,Login Administrador,200,OK,Administradores 2-3,text,true,,595,338,4,8,http://192.168.82.105:3000/api/v1/auth/login,31,0,13
+1591283059045,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,345,4,8,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283059207,11,Datos Alumno,200,OK,Alumnos 1-4,text,true,,1598,416,4,8,http://192.168.82.105:3000/api/v1/alumnos/alumno/marissaherrera%40tropoli.com?login=marissaherrera@tropoli.com,11,0,0
+1591283059258,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,200,OK,Administradores 2-1,text,true,,2400,0,4,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,15,0,0
+1591283059703,15,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1455,412,3,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/cooleybarker%40tropoli.com?login=cooleybarker@tropoli.com,15,0,0
+1591283061040,21,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1456,410,3,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/greenewolfe%40tropoli.com?login=greenewolfe@tropoli.com,21,0,0
+1591283061534,15,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,200,OK,Administradores 2-4,text,true,,1184,0,4,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/annelambert%40tropoli.com,15,0,0
+1591283061607,16,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,200,OK,Administradores 2-2,text,true,,2400,0,4,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,16,0,0
+1591283061612,29,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,200,OK,Administradores 2-3,text,true,,917,0,4,7,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,29,0,0
+1591283062049,16,Login Administrador,200,OK,Administradores 2-1,text,true,,595,341,3,6,http://192.168.82.105:3000/api/v1/auth/login,16,0,3
+1591283062301,21,Login Alumno,200,OK,Alumnos 1-1,text,true,,584,343,3,6,http://192.168.82.105:3000/api/v1/auth/login,21,0,0
+1591283062491,11,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1511,420,3,6,http://192.168.82.105:3000/api/v1/alumnos/alumno/williamsoncooper%40tropoli.com?login=williamsoncooper@tropoli.com,11,0,0
+1591283064080,14,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,341,3,6,http://192.168.82.105:3000/api/v1/auth/login,14,0,0
+1591283064827,17,Login Administrador,200,OK,Administradores 2-4,text,true,,595,338,3,6,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283065075,17,Login Administrador,200,OK,Administradores 2-2,text,true,,595,339,3,6,http://192.168.82.105:3000/api/v1/auth/login,17,0,4
+1591283065111,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,200,OK,Administradores 2-1,text,true,,917,0,3,6,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,13,0,0
+1591283065268,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,333,3,5,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283065654,11,Datos Alumno,200,OK,Alumnos 1-1,text,true,,1621,416,3,5,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcdonaldwalter%40tropoli.com?login=mcdonaldwalter@tropoli.com,11,0,0
+1591283066240,11,Datos Alumno,200,OK,Alumnos 1-2,text,true,,815,410,2,4,http://192.168.82.105:3000/api/v1/alumnos/alumno/stokesburns%40tropoli.com?login=stokesburns@tropoli.com,11,0,0
+1591283067404,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,200,OK,Administradores 2-4,text,true,,2400,0,2,4,http://192.168.82.105:3000/api/v1/alumnos/alumno/mcfarlandwhitehead%40tropoli.com,14,0,0
+1591283067559,14,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,200,OK,Administradores 2-2,text,true,,917,0,2,4,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,14,0,0
+1591283068143,10,Datos Alumno,200,OK,Alumnos 1-3,text,true,,1425,412,2,3,http://192.168.82.105:3000/api/v1/alumnos/alumno/madgeburgess%40tropoli.com?login=madgeburgess@tropoli.com,10,0,0
+1591283069429,13,Login Administrador,200,OK,Administradores 2-4,text,true,,595,341,1,3,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283069586,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,584,339,2,3,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283071476,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,584,343,2,3,http://192.168.82.105:3000/api/v1/auth/login,13,0,0
+1591283073047,13,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,200,OK,Administradores 2-4,text,true,,917,0,1,3,http://192.168.82.105:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,13,0,0
+1591283073228,20,Datos Alumno,200,OK,Alumnos 1-2,text,true,,1709,416,2,2,http://192.168.82.105:3000/api/v1/alumnos/alumno/blanchardroach%40tropoli.com?login=blanchardroach@tropoli.com,20,0,3
+1591283074583,10,Datos Alumno,200,OK,Alumnos 1-3,text,true,,989,414,1,1,http://192.168.82.105:3000/api/v1/alumnos/alumno/luisacantrell%40tropoli.com?login=luisacantrell@tropoli.com,10,0,0
